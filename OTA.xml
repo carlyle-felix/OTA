@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <jagnm>
@@ -15,11 +15,6 @@
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
-
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="Visit Resurrection Remix jagnm thread">http://forum.xda-developers.com/lg-g3/development/rom-resurrection-remix-5-6-3-t3318485</XDAUrl>
 	</jagnm>
     </Stable>
 </SlimOTA>
