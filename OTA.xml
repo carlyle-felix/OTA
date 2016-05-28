@@ -7,6 +7,14 @@
                 id="rom"
                 title="Rom"
                 description="Download ResurrectionRemix builds">https://basketbuild.com/devs/carlyle_f/{complete link}</RomUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>  
+             <KernelURL
+            	id="kernel"
+            	title="Kernel"
+            	description="Download RustyKernel">http://https://basketbuild.com/devs/carlyle_f/RustyKernel/jagnm</KernelURL>
 	    <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -20,6 +28,14 @@
                 id="rom"
                 title="Rom"
                 description="Download ResurrectionRemix builds">https://basketbuild.com/devs/carlyle_f/{complete link}</RomUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>  
+             <KernelURL
+            	id="kernel"
+            	title="Kernel"
+            	description="Download RustyKernel">http://https://basketbuild.com/devs/carlyle_f/RustyKernel/jag3gds</KernelURL>
 	    <ChangelogUrl
                 id="changelog"
                 title="Changelog"
