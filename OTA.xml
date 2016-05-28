@@ -4,8 +4,8 @@
         <jagnm>
             <Filename>ResurrectionRemix-M-v5.6.9-20160527-jagnm.zip</Filename>
             <BuildsUrl
-                id="rom"
-                title="Rom"
+                id="builds"
+                title="LatestBuild"
                 description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/carlyle_f/ResurrectionRemix-jagnm/ResurrectionRemix-M-v5.6.9-20160527-jagnm.zip</BuildsUrl>
             <RomUrl
                 id="rom"
