@@ -2,15 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <jagnm>
-            <Filename>ResurrectionRemix-M-v5.6.9-20160527-jagnm.zip</Filename>
-            <BuildsUrl
-                id="builds"
-                title="LatestBuild"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/carlyle_f/ResurrectionRemix-jagnm/ResurrectionRemix-M-v5.6.9-20160527-jagnm.zip</BuildsUrl>
+            <Filename>ResurrectionRemix-M-v5.7.0-20160619-jagnm.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/carlyle_f/ResurrectionRemix-jagnm</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/carlyle_f/ResurrectionRemix-jagnm/ResurrectionRemix-M-v5.7.0-20160619-jagnm.zip</RomUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
@@ -27,11 +23,11 @@
     </Stable>
         <Stable>
         <jag3gds>
-            <Filename>ResurrectionRemix-M-v5.6.4-20160224-jagnm.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.0-20160621-jag3gds.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/carlyle_f/{complete link}</RomUrl>
+                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/carlyle_f/ResurrectionRemix-jag3gds/ResurrectionRemix-M-v5.7.0-20160621-jag3gds.zip</RomUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"
